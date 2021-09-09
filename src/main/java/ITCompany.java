@@ -10,8 +10,5 @@ public class ITCompany {
 
         System.out.println(textQA);
         System.out.println(textProgrammer);
-
-       /* System.out.println(qa.salary + "" + qa.experience);
-        System.out.println(programmer.salary + " " + programmer.communication);*/
     }
 }
